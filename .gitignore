@@ -1,0 +1,4 @@
+# 私有数据与配置
+*.env
+.env
+config.local.*
